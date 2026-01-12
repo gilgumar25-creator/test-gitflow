@@ -1,1 +1,11 @@
 Esto es solo de práctica e ir observando como organizar mejor las tareas según las ramas.
+
+Participantes: Mario Gil , Cristiano Ronaldo , Patricio Ruperto y Minerva Brian.
+Horas del trabajo: 50-75 horas(perdimos la noción del tiempo después de tanto trabajar).
+Plataformas utilizadas:Git bash y Github, Visual Studio Code y Classroom.
+Opinión de Cristiano: SIUUUUUUU
+Opinión de Patricio Ruperto: Muy bien estoy muy contento.
+
+
+Faltaban muchas cosas como los participantes del proyecto,las horas de trabajo, plataformas utilizadas 
+para realizar el proyecto y la opinión de al menos dos usuarios.
