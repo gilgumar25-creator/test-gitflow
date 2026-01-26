@@ -1,0 +1,2 @@
+A este código le falta un archivo css, el cual debe contener dos div{} que contengan una caja con un titulo dentro
+
